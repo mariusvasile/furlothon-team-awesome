@@ -13,12 +13,14 @@ pip install foobar
 
 #### Clone source code from git
 ```
-$  git clone https://<bitbucket-username>@bitbucket.org/aviosgroup/product-pricing-service.git
+$  git clone git@github.com:mariusvasile/furlothon-team-awesome.git
 ```
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
 
 
 
